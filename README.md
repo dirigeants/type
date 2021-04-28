@@ -18,14 +18,15 @@
 
 **Table of Contents**
 
--   [Description](#description)
--   [Features](#features)
--   [Installation](#installation)
--   [Usage](#usage)
-    -   [Basic Usage](#basic-usage)
--   [API Documentation](#api-documentation)
--   [Buy us some doughnuts](#buy-us-some-doughnuts)
--   [Contributors ✨](#contributors-%E2%9C%A8)
+-   [@sapphire/type](#sapphiretype)
+    -   [Description](#description)
+    -   [Features](#features)
+    -   [Installation](#installation)
+    -   [Usage](#usage)
+        -   [Basic Usage](#basic-usage)
+    -   [API Documentation](#api-documentation)
+    -   [Buy us some doughnuts](#buy-us-some-doughnuts)
+    -   [Contributors ✨](#contributors-%E2%9C%A8)
 
 ## Description
 
@@ -70,7 +71,7 @@ console.log(type.toString());
 
 ## API Documentation
 
-For the full API documentation please refer to the TypeDoc generated [documentation](https://sapphire-community.github.io/utilities/modules/_sapphire_type.html).
+For the full API documentation please refer to the TypeDoc generated [documentation](https://sapphire-community.github.io/type/index.html).
 
 ## Buy us some doughnuts
 
